@@ -89,7 +89,8 @@ Pointers to keep in mind is:
 
 Go put a star 😤
 
-[![Star History Chart](https://api.star-history.com/svg?repos=JustinBenito/Communities&type=Date)](https://star-history.com/#JustinBenito/Communities&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=FOSSUChennai/tamilnadu.tech.git&type=Date)](https://www.star-history.com/#FOSSUChennai/tamilnadu.tech.git&Date)
+
 
 ## 📝 License
 
